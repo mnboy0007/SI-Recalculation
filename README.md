@@ -19,3 +19,5 @@ streamlit run app_logic_v2.py
   `Sum of SI Wk3 = SHIPPABLE INV tại Target Week - Total PLANNED POS từ Current Week đến Target Week - FIRM POS tại Target Week`
 
 - `Sum of SI-SS Wk3 = Sum of SI Wk3 - SAFETY STK tại Target Week`
+
+- NOTE: TO HAVE FINAL SI CALCULATION, PLEASE PLUS WITH PO FROM PSW BECAUSE CURRENT CALCULATION IS FOR SI WITHOUT CURRENT PO
